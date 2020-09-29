@@ -9,3 +9,6 @@ Comandos para manipular strings
 
 # Operações matemáticas
 Soma, subtração, Multiplicação, Divisão, Exponencial e Logaritmo
+
+# Operadores lógicos e relacionais
+Ferramentas que retornam True ou False
