@@ -6,3 +6,6 @@ Entendimento de como funcionam as variáveis em Python
 
 # Manipulação de strings
 Comandos para manipular strings
+
+# Operações matemáticas
+Soma, subtração, Multiplicação, Divisão, Exponencial e Logaritmo
