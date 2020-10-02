@@ -27,3 +27,9 @@ Estrutura que armazena valores em linhas e colunas
 
 # Funções
 Trechos que são chamados para realizar uma determinada ação
+
+# Módulos úteis
+Uso das bibliotecas math, datetime, random, time
+
+# Módulos personalizados
+Como fazer a criação de uma biblioteca personalizada
