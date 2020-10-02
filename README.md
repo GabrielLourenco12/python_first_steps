@@ -18,3 +18,9 @@ Uso do if e else para indicar condição
 
 # Estruturas de repetição
 Uso de for e while
+
+# Coleções
+Variáveis que armazenam mais de um valor. Tuplas, Listas, Dicionários, Conjuntos.
+
+# Mattrizes
+Estrutura que armazena valores em linhas e colunas
