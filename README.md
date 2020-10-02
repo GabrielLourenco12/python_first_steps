@@ -15,3 +15,6 @@ Ferramentas que retornam True ou False
 
 # Operadores condicionais
 Uso do if e else para indicar condição
+
+# Estruturas de repetição
+Uso de for e while
