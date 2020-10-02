@@ -33,3 +33,9 @@ Uso das bibliotecas math, datetime, random, time
 
 # Módulos personalizados
 Como fazer a criação de uma biblioteca personalizada
+
+# Tratamento de erros
+Como fazê-los para os diferentes tipos de erros
+
+# Manipulação de arquivos
+Uso de arquivos externos
