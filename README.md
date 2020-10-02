@@ -34,6 +34,12 @@ Uso das bibliotecas math, datetime, random, time
 # Módulos personalizados
 Como fazer a criação de uma biblioteca personalizada
 
+# Expressões regulares
+Uso de estruturas de busca
+
+# Orientação a objetos
+Uso de classes
+
 # Tratamento de erros
 Como fazê-los para os diferentes tipos de erros
 
