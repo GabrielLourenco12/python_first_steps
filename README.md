@@ -22,5 +22,8 @@ Uso de for e while
 # Coleções
 Variáveis que armazenam mais de um valor. Tuplas, Listas, Dicionários, Conjuntos.
 
-# Mattrizes
+# Matrizes
 Estrutura que armazena valores em linhas e colunas
+
+# Funções
+Trechos que são chamados para realizar uma determinada ação
