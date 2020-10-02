@@ -12,3 +12,6 @@ Soma, subtração, Multiplicação, Divisão, Exponencial e Logaritmo
 
 # Operadores lógicos e relacionais
 Ferramentas que retornam True ou False
+
+# Operadores condicionais
+Uso do if e else para indicar condição
